@@ -121,6 +121,8 @@ MAX30102 (IR/RED light) → Arduino Uno → Serial → inference.py (predict glu
 
 ---
 
+---
+
 ## 👨‍💻 Authors
 
 Developed by the GlucoSync Team  
