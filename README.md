@@ -47,7 +47,7 @@ python inference.py
 
 ---
 
-## ⚙️ 2. hardware (Arduino + MAX30102)
+## ⚙️ 2. Hardware (Arduino + MAX30102)
 
 **Location:** `GLUCOSYNC-FINAL-main/hardware`
 
@@ -71,7 +71,7 @@ This contains the Arduino sketch to read IR & Red light data from the MAX30102 s
 
 ---
 
-## 📱 3. glucosync (Flutter App)
+## 📱 3. Glucosync (Flutter App)
 
 **Location:** `GLUCOSYNC-FINAL-main/glucosync`
 
